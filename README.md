@@ -26,4 +26,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Personal Site](https://switchbla.de)
  
 ![](https://github-readme-stats.vercel.app/api?username=iraizo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iraizo&layout=compact&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iraizo)](https://github.com/anuraghazra/github-readme-stats)
