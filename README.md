@@ -1,6 +1,6 @@
 # Hello!
 ### Hello, I'm Raizo, a web & software developer.<br>
-#### I started coding when I was 12, learning Python because i was interested in the Discord API, especially making bots for the service.<br>
+#### I started coding when I was 12, learning Python because i was interested in the Discord API, especially making bots for the service.
 #### I learned HTML,CSS and JS in 2018, in 2019 Ive started to learn C++ and im trying to develope more skills in C++ and TypeScript in 2020.
 <br>
 
