@@ -18,6 +18,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TypeScript/JavaScript
 <br>
 
+## Frameworks / Libraries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Express
+
 ## Links
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hackerone](https://hackerone.com/iraizo)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/yvngraizo)  
