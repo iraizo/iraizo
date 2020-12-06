@@ -14,7 +14,7 @@
 
 ## Languages
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rust  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TypeScript/JavaScript
 <br>
