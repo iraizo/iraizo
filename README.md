@@ -22,6 +22,7 @@
 ## Frameworks / Libraries
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Express
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tokio/Reqwest
 
 ## Links
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hackerone](https://hackerone.com/iraizo)  
