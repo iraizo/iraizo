@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/iraizo/discordGrabber/">**discordGrabber [dead]**</a> - Information stealer from the discord process via signature scanning.<br>
 
 ## GPG Fingerprint 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`0x4CDAAA9CC7AA12C8`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`0x5B618FE03DD54EB2`
 <br>
 
 ## Languages
