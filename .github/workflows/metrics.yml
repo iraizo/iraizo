@@ -19,7 +19,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: javascript, html, css
           plugin_languages_skipped: raizo.dev
-          plugin_languages_threshold: 2% 
           plugin_activity: yes
           plugin_activity_limit: 5  
           plugin_activity_days: 14  
