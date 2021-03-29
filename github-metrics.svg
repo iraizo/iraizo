@@ -1095,7 +1095,7 @@
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-          172 issue comments
+          177 issue comments
         </div>
       </section>
     
@@ -3185,10 +3185,10 @@
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
-                    Opened <div class="issue">#118 Salmon monitoring</div>
+                    Closed <div class="issue">#1373 [Bug] 1 bot can't get into its account</div>
                   </div>
                   <div class="details">
-                    <div>opened  in <div class="repo">frozenpandaman/splatnet2statink</div></div>
+                    <div>opened by mysistercalledmehitler in <div class="repo">nullworks/cathook</div></div>
                   </div>
                 
                 
@@ -3210,11 +3210,11 @@
                     
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
                     
-                    Commented on <div class="issue">#1305 [Bug] Best Weapon Only doesn't disable when disabled in GUI</div>
+                    Commented on <div class="issue">#1373 [Bug] 1 bot can't get into its account</div>
                   </div>
                     <div class="details">
-                    <div>opened by n3u-TF2 in <div class="repo">nullworks/cathook</div></div>
-                    <div class="comment">I may be blind but the only thing i can find is `navbot.primary-only`</div>
+                    <div>opened by mysistercalledmehitler in <div class="repo">nullworks/cathook</div></div>
+                    <div class="comment">Inactive since 18 days, closing.</div>
                   </div>
                 
                 
@@ -3240,10 +3240,10 @@
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
-                    Closed <div class="issue">#1136 error: Partition / too full: 141581 blocks needed, 71706 blocks free</div>
+                    Closed <div class="issue">#1382 optimize aimbot</div>
                   </div>
                   <div class="details">
-                    <div>opened by foamlinux in <div class="repo">nullworks/cathook</div></div>
+                    <div>opened by dotqurter in <div class="repo">nullworks/cathook</div></div>
                   </div>
                 
                 
@@ -3265,40 +3265,40 @@
                     
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
                     
-                    Commented on <div class="issue">#1310 No Overlay/No Render module</div>
+                    Commented on <div class="issue">#164 [Suggestion] List of enabled/active hacks</div>
                   </div>
                     <div class="details">
+                    <div>opened by GenericException in <div class="repo">nullworks/cathook</div></div>
+                    <div class="comment">Not sure why this isnt added yet.</div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
+                    Closed <div class="issue">#302 [Question] Cathook on Mac?</div>
+                  </div>
+                  <div class="details">
                     <div>opened by ghost in <div class="repo">nullworks/cathook</div></div>
-                    <div class="comment">this should be added as a TODO tbh</div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
-                    Closed <div class="issue">#98 ./reattach crashes cathook</div>
-                  </div>
-                  <div class="details">
-                    <div>opened by twilight-sparkle-irl in <div class="repo">nullworks/cathook</div></div>
                   </div>
                 
                 
@@ -3340,7 +3340,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated Mon, 29 Mar 2021 20:01:11 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Mon, 29 Mar 2021 21:01:19 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
