@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1594" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1319" class="">
     <defs>
         <style/>
     </defs>
@@ -1244,7 +1244,7 @@ she / they | https://keybase.io/raizo
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            366 issue comments
+            368 issue comments
           </div>
                     </section>
                     <section>
@@ -1299,7 +1299,7 @@ she / they | https://keybase.io/raizo
             </div>
                                 <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/></svg>
-              110 MB used
+              111 MB used
             </div>
                             </section>
                             <section>
@@ -3395,6 +3395,44 @@ she / they | https://keybase.io/raizo
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
+                      Commented on <span class="issue">#6953 [Felwood] Mongress (rare) missing movement </span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by iraizo in <span class="repo">azerothcore/azerothcore-wotlk</span></div>
+                                    <div class="comment"><i>
+@iraizo read this section
+so FYI you can also just copy-paste the list other technical details (e.g. modules, OS, etc...) when needed (not required in this case)
+</i>
+Noted!
+</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                      Commented on <span class="issue">#6872 refactor(Core/Player): created update player category</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by iraizo in <span class="repo">azerothcore/azerothcore-wotlk</span></div>
+                                    <div class="comment">Thanks @Kitzunu and @Winfidonarleyan for fixing those format issues, they shouldn't happen anymore after it had been reverted!
+</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
                       Commented on <span class="issue">#1504 Headshots are not hitting targets 100%</span>
                     </div>
                                 </div>
@@ -3444,132 +3482,12 @@ Thats the whole issue, id rather trust a file rather than a person trying to "wo
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 47 commits in <span class="repo">iraizo/azerothcore-wotlk</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix-issue-3784</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2e8a749</span>
-                                        <span class="message">fix(DB): rewrite Supplies to Auberdine quest (#6846)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f6c0b0b</span>
-                                        <span class="message">fix(Core/World): -Wrange-loop-analysis warning (#6853)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4103fca</span>
-                                        <span class="message">fix(Core/ObjectGuid): prevent creating copies when looping objects (#6852)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2fcafa5</span>
-                                        <span class="message">chore(DB): import pending files
-
-Referenced commit(s): 5020056bfa3779b49464a3764976fda402987b59</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5020056</span>
-                                        <span class="message">fix(DB): minor issues with Spellshock Leggings (#6834)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#19869e6</span>
-                                        <span class="message">refactor(Core/Player): extract methods based on existing categories (#6838)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2e82914</span>
-                                        <span class="message">chore(DB): import pending files
-
-Referenced commit(s): e5c78f5a9581259913cfaeacc02f66aa3adddda4</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e5c78f5</span>
-                                        <span class="message">fix(DB/creature_template): correct faction and speed_run for Masat T'andr and Broken Exiles (#6809)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#96ab0d4</span>
-                                        <span class="message">fix(CI): docker workflow update (#6860)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3e4cfd7</span>
-                                        <span class="message">fix(CI): docker workflow update (#6851)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0f4a942</span>
-                                        <span class="message">fix(Core/PetHandler): prevent crash (#6805)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a61f7a1</span>
-                                        <span class="message">fix(Core/Loot): allow master looter to see and distribute all quest items (#6417)
-
-Co-Authored-By: Giacomo Pozzoni &lt;giacomopoz@gmail.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#db2c451</span>
-                                        <span class="message">chore(DB): import pending files
-
-Referenced commit(s): ba2949ed171dd7beb7321c5c82c541914bc7e8bf</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ba2949e</span>
-                                        <span class="message">fix(DB/quest_template): correct objective for The Sacred Flame 1/3 (#6796)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#65c9d36</span>
-                                        <span class="message">chore(Core/Player): add error log when previously ASSERT (#6802)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#aaa1387</span>
-                                        <span class="message">chore(DB): import pending files
-
-Referenced commit(s): e753aed3a977310025b85b49820456b25d317a4b</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e753aed</span>
-                                        <span class="message">fix(DB/GO): raise group of ore nodes to stop underground spawning (#6795)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ebb8014</span>
-                                        <span class="message">refactor(Core): replace boost::filesystem with std::filesystem (#6800)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f79e23e</span>
-                                        <span class="message">chore(DB): import pending files
-
-Referenced commit(s): 6169290b19a0d0942629898cd829e2952d200111</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6169290</span>
-                                        <span class="message">fix(DB/Creature): correct Mezzir the Howler movement (#6794)</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Created new
-                      branch  <span class="code">fix-issue-3784</span> in  <span class="repo">iraizo/azerothcore-wotlk</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 16 Jul 2021 12:05:15  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 16 Jul 2021 13:14:17  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
